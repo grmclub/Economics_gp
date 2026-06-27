@@ -1,0 +1,115 @@
+
+-------------------------------------------------
+In this conversation on the Practical Wisdom podcast, Noam Chomsky discusses the limitations of AI, the nature of human language, and the relationship between thought and consciousness.
+AI and Large Language Models
+
+Chomsky critiques systems like ChatGPT, arguing that they do not possess true intelligence or reasoning.
+
+    "High-Tech Plagiarism": He describes AI as a system that scans astronomical amounts of data to find statistical regularities and predict the next word [04:02].
+
+    The Problem of Data: Unlike AI, which requires billions of parameters, a human child acquires language with "poverty of the stimulus"—using very small amounts of information to master complex systems [05:26].
+
+    Thinking vs. Simulating: He compares asking if a machine can "think" to asking if a submarine can "swim"—it is a matter of definition, not an indication of internal mental life [07:01].
+
+The Human Mind and Language
+
+Chomsky distinguishes between the internal biological system of language and its external expression.
+
+    Internal Language (I-Language): He posits that 99% of language is internal to the mind and is used for thought and reflection, not just communication [12:42].
+
+    Inaccessibility of Thought: Most linguistic processes are unconscious. Chomsky compares the language faculty to the "gut brain" (enteric nervous system); we cannot introspect into how it works any more than we can introspect into our digestion [13:28].
+
+    Universal Grammar: He maintains that humans have an innate, shared capacity for language that emerged suddenly in human history and has not evolved significantly since [54:19].
+
+Consciousness and Science
+
+    The "Hard Problem": Understanding consciousness is difficult because ethical constraints prevent invasive experiments on humans, and there are no other organisms with comparable language faculties to study [10:42].
+
+    Limits of Data: Chomsky emphasizes that "data is not evidence" until it is interpreted through a theoretical framework. Simply accumulating more data through AI does not lead to scientific explanation [18:41].
+
+Interdisciplinary Connections
+
+    Arithmetic and Music: Chomsky suggests that our capacity for arithmetic may be an offshoot of the language faculty [30:22]. He also notes potential structural commonalities between language and tonal music [31:34].
+
+    Morality: He references work suggesting that our moral reasoning—or "practical wisdom"—may also be driven by innate generative structures similar to those found in language [32:02].
+	
+--------------------------------------------------------------------------------------
+This video features a lecture by linguist and political commentator Noam Chomsky, titled "Values for a New World," hosted by the Center for Studies in Religion and Society at the University of Victoria.
+
+Core Themes and Challenges:
+Noam Chomsky outlines what he describes as a "confluence of challenges" that threaten the future of the human experiment. He argues that we are at a unique juncture where humanity must decide whether to continue organized life or face potential extinction through inaction. The three primary existential crises highlighted are:
+
+    Nuclear Weapons: A persistent threat since 1945 (07:39 - 10:41). Chomsky reflects on the "nuclear demon" and the passivity of the public in the face of this growing danger.
+    Climate Crisis: Emphasizing the warnings from the IPCC and scientists like Raymond Pierrehumbert, Chomsky stresses that there is "no plan B" and that rapid transition to net-zero emissions is essential (14:43 - 16:30).
+    The Infodemic: A crisis of information and discourse, where dominant cultural narratives and media structures often suppress critical thinking and awareness of history (28:22 - 32:00, 48:23 - 48:49).
+
+Key Perspectives and Solutions:
+
+    Academic Responsibility: Chomsky suggests that universities must serve as places to "lift the veil" and educate society on the realities of history, including colonial legacies and current global political dynamics (57:02 - 58:04, 1:22:45).
+    Role of Religion/Spirituality: Discussing Liberation Theology and the historical response of faith communities to social injustice, Chomsky notes that religious groups have the potential to be a powerful force for social change when they focus on the "preferential option for the poor" (1:10:47 - 1:12:36).
+    Indigenous Leadership: He highlights that indigenous people worldwide are often in the forefront of environmental protection, drawing on their long history of living sustainably with nature (1:23:26 - 1:25:48).
+
+Chomsky concludes on a note of cautious hope, asserting that the means to overcome these crises are within reach if society has the will to act decisively.
+
+
+
+--------------------------------------------------------------------------------------
+Noam Chomsky on Artificial Intelligence, Language and Cognition 
+https://www.youtube.com/watch?v=_7AE7UuOfg0
+
+This video features a philosophy discussion hosted by the Institute of Philosophy & Technology, where eminent linguist and philosopher Noam Chomsky explores the relationship between artificial intelligence, human language, and cognition. Throughout the session, Chomsky engages with a panel of researchers and scholars on topics ranging from the limitations of large language models (LLMs) to the fundamental nature of human intelligence.
+
+Key Themes and Discussions:
+
+    -AI and Language/Cognition: Chomsky argues that current AI approaches, such as GPT-3 and deep learning, have no fundamental connection to human language or cognition (1:42 - 4:04). He characterizes them as "high-tech plagiarism" (4:25) that operates by identifying statistical regularities in massive datasets, making them incapable of distinguishing between possible and impossible human languages.
+    
+	-Education and AI: Discussing the impact of AI on education (6:35), Chomsky suggests that tools like ChatGPT act as impediments to learning by facilitating plagiarism rather than encouraging critical thought. He advocates for educational methods that stimulate natural human curiosity and inquiry rather than "teaching to the test" (31:39 - 33:45).
+    
+	-Cognitive Science: Addressing the state of cognitive science (13:08), Chomsky notes that while vision is better understood due to comparative biological research, human language remains "isolated" (18:12), making it a difficult subject for neurophysiological study.
+    
+	-Creativity and Nature of Intelligence: When asked about creativity and robots (39:21), Chomsky clarifies that computers are simply executing programs. He posits that true human creativity and the ability to use language appropriately in novel situations remains a profound mystery, often citing Descartes' distinction of human intelligence versus mechanical processes (46:11 - 47:35).
+    
+	-Social Cognition: In response to questions about voice, culture, and social phenomena (58:06), Chomsky emphasizes the existence of a common, fundamental human nature that allows infants to acquire culture and language, rejecting radical postmodern relativism.
+
+--------------------------------------------------------------------------------------
+In this video, Noam Chomsky discusses the historical divergence between the "Global North" and "Global South," arguing that market doctrines have been applied inconsistently to favor the wealthy while disciplining the poor.
+Key Insights from the Video:
+
+    The Double-Edged Nature of Markets: Chomsky argues that "really existing" market doctrine is a "double-edged" system: market discipline for the poor and protection and public subsidy for the rich [00:53]. He notes that historically, this has been almost a "law of history."
+
+    The Development of Britain: He points out that England utilized 150 years of harsh protectionism to develop its own industry before it began advocating for free markets [01:50]. During this same period, Indian industry was systematically destroyed through force and high tariffs [01:36].
+
+    Japan as the Exception: Chomsky identifies Japan as the primary exception in the "South" that successfully developed. He attributes this to the fact that Japan was the only part of the South that resisted European invasion [02:17].
+
+    State Intervention: Because it remained independent, Japan was able to use the same policies of state intervention and public subsidy that the advanced countries of the North used to develop their own economies [02:31].
+
+    Japanese Colonialism: Chomsky notes that while Japan was a brutal imperial power, it treated colonies like Taiwan and Korea differently than Europeans treated theirs; rather than just robbing them, Japan developed their industries, leading to rapid growth in those regions [02:45].
+--------------------------------------------------------------------------------------
+Kissinger on japan
+
+Henry Kissinger’s perspective on Japan was complex, evolving from a period of fundamental misunderstanding and strategic friction during the Nixon administration to a recognition of Japan as an essential, if evolving, global power.
+1. Cold War Friction and Strategic Misunderstanding
+
+In the early 1970s, the relationship between Kissinger, President Nixon, and the Japanese leadership was notably strained. Kissinger himself later admitted in his memoirs that he and his colleagues lacked a "subtle grasp of Japanese culture and psychology," leading to significant diplomatic errors—most notably the "Nixon Shocks," where the U.S. opened relations with China without prior consultation with Tokyo.  
+
+    Diplomatic Style: Kissinger and Nixon were often frustrated by the Japanese consensus-based decision-making process, which they perceived as slow and overly "obsequious."  
+
+    The "Political Pygmy" View: Despite the friction, Kissinger held a firm realist belief that Japan’s status as an "economic giant" could not be sustained while it remained a "political pygmy." He argued that Japan would inevitably be forced to take on a more autonomous and significant role in international political affairs.  
+
+2. Evolving Views on Japan’s Power and Security
+
+As Japan’s economic influence grew, Kissinger’s assessment shifted toward viewing Japan as a major world power that required more direct engagement.
+
+    Nuclear Capability: Kissinger often remarked that Japan possessed the technological and economic base to become a nuclear power if it chose to do so. In later years, he even suggested that Japan might move toward nuclear armament as a response to China’s expanding influence—a perspective that remained controversial and often drew pushback from Japanese officials committed to the nation’s three non-nuclear principles.  
+
+    Strategic Utility: Kissinger viewed a stronger, more assertive Japan as a useful strategic counterweight in Asia. He believed that even a degree of "remilitarization" could be beneficial, as it would force China to account for Japan as a more potent security actor.
+
+    China-Japan-U.S. Triangle: Kissinger believed the health of the U.S.-Japan alliance was paramount. He theorized that a closer, more stable U.S.-Japan relationship actually improved the U.S.'s ability to manage its own dealings with Beijing, as it prevented China from exploiting divisions between the two allies.
+
+3. Diplomatic Legacy
+
+While his early career was marked by a disregard for the nuances of the U.S.-Japan alliance, Kissinger spent much of his later life attempting to reinforce it. He frequently engaged in "track two" diplomacy, convening dialogues between U.S. and Japanese opinion leaders to ensure that the two nations remained aligned in the face of shifting geopolitical realities in Asia, specifically the rise of China.
+
+Ultimately, Kissinger’s view of Japan was defined by his hallmark realism: he saw Japan not as a historical artifact of WWII, but as an inevitable Great Power that needed to move beyond its post-war constraints to secure its own interests and maintain regional stability.
+
+--------------------------------------------------------------------------------------
